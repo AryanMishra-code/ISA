@@ -1,0 +1,38 @@
+.grid {
+
+border-style: groove;
+border-width: 10px;
+border-color: red;
+
+}
+.Sports {
+
+background : radial-gradient(red, orangered, orange, yellow);
+
+}
+
+.Definition {
+
+background: radial-gradient(red, yellow, yellowgreen, magenta, orange);
+
+}
+.header {
+
+background: linear-gradient(to Bottom, red, magenta, yellow);
+
+}
+.header2 {
+
+background: linear-gradient(to Top, red, greenyellow, orangered);
+
+}
+.header3{
+
+background: radial-gradient(yellow, magenta, pink, orange, orangered);
+
+}
+.ending1 {
+
+background: linear-gradient(to Left, red, cyan, greenyellow, orange);
+
+}
